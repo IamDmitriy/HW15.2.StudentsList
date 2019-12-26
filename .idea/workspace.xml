@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cb46d61-ac31-474e-9ce9-26a6bd218baa" name="Default Changelist" comment="" />
+    <list default="true" id="9cb46d61-ac31-474e-9ce9-26a6bd218baa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentsList/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StudentsList/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentsList/com/company/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StudentsList/com/company/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Student.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +20,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VQZ2MBeiywTezl9nEWQT2AlJGu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../15.3.CarBase" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -67,21 +80,37 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577188937411" />
-    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1577188942341">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1577354090135">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577188942341" />
-    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1577188942341">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577354090135" />
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1577343635613">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577188942341" />
-    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1577188942341">
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577343635613" />
+    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1577343635613">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577188942341" />
-    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1577188942341">
+    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577343635613" />
+    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1577343635613">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577188942341" />
+    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577343635613" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1577343635613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577343635613" />
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1577353879986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577353879986" />
+    <state x="342" y="139" key="new project wizard" timestamp="1577273616403">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="139" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1577273616403" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1577271038121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577271038121" />
   </component>
 </project>

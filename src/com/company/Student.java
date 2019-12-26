@@ -28,10 +28,6 @@ public class Student {
 
     @Override
     public String toString() {
-        return "Student{" +
-                "name='" + name + '\'' +
-                ", group='" + group + '\'' +
-                ", studentId='" + studentId + '\'' +
-                '}';
+        return name + ", " + group + ", " + studentId;
     }
 }
